@@ -38,8 +38,6 @@ Description des classes
 			Classe qui contient tous les méthodes définie spécialement pour le fonctionnement du fou
 		Empty (Dérivé de Piece)
 			Classe representant une classe vide
-		PieceTemp (Dérivé de Piece)
-			Classe permettant d'ajouter une pièce temporaire
 
 		Spot
 			Classe représentant une case de l'échéquier.
