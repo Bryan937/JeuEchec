@@ -1,6 +1,6 @@
 Projet: Jeu d'échec
 
-Auteurs: Bryan Tadié et Mohamed Lamine Gning
+Auteurs: Bryan T. et Mohamed L.G.
 
 Date 6 mai 2022
 
