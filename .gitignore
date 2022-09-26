@@ -1,0 +1,6 @@
+# Ficher à ignorer
+*.slm
+*.vcxproj
+*.ruleset
+x64/
+.vscode/
