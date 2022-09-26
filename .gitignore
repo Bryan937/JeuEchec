@@ -1,5 +1,5 @@
 # Ficher à ignorer
-*.slm
+*.sln
 *.vcxproj
 *.ruleset
 x64/
