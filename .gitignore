@@ -1,6 +1,12 @@
 # Ficher à ignorer
 *.sln
 *.vcxproj
+*.filters
+*.user
 *.ruleset
 x64/
-.vscode/
+**/.vs
+/README.txt
+/bibliotheque_cours
+**/googletest
+**/include
